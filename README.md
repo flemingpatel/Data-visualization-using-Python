@@ -30,4 +30,4 @@ If you are not using PyCharm then below is the list of the third-party API which
 
 * Matplotlib
 * Pandas
-	Numpy (Future consideration)
+* Numpy (Future consideration)
