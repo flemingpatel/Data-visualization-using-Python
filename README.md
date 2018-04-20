@@ -22,5 +22,12 @@ Data analysis and Data visualization on Canadian Industry price indexes for meat
   * Right click to DataSetMain.py file and select “Run DataSetMian.py”.
   * Now program will run.
     - After running first time, now you can chose Run from the top menu.
+    
+## List of third party API:
+If you are using PyCharm as IDE then PyCharm will automatically download and install the third-party API.
 
-  
+If you are not using PyCharm then below is the list of the third-party API which manual installation required to run the project.
+
+* Matplotlib
+* Pandas
+	Numpy (Future consideration)
